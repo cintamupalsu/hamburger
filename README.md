@@ -1,24 +1,13 @@
-# README
+# Where is my hamburger?
+## When the adventure begin
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Website: http://hamburger-maulanamania.c9users.io/
 
-Things you may want to cover:
+Since "The Giant" no longer generous to us, its put me on no choice to 
+create my own Map API to replace Him.
 
-* Ruby version
+## Scope
+Will start to use Shizuoka city as test 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Other
+Hope I can finish this before the end of 2018.
