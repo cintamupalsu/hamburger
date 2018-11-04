@@ -59,11 +59,11 @@ group :test do
   gem 'rails-controller-testing', '1.0.2'
   gem 'minitest','5.11.3'
   gem 'minitest-reporters', '1.1.14'
-  gem 'guard-minitest','2.4.4'
+  gem 'guard-minitest'
 end
 
 group :production do
-  gem 'cloudant', '~> 0.1.4'
+  #gem 'cloudant', '~> 0.1.4'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
